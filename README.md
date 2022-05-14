@@ -1,5 +1,5 @@
 # helene-normant.github.io
-Pico-8 game team
+Pico-8 game team ADACADEMY
 
 Your mission is to discover the neighbourhood around the new school's address(in Paris) and get out of your comfort zone to discover the final surprise.
 
